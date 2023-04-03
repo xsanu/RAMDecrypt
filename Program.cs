@@ -19,7 +19,7 @@ namespace RAMDecrypt
         
             string AccountsPath = args[0];
 
-            Console.WriteLine("WARNING: Do NOT send any of these files to anyone as they can use the information stored in these files to steal your accounts, Robux, or even get your accounts termiated from Roblox!\n");
+          
 
             if (File.Exists(AccountsPath))
             {
